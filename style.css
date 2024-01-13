@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.book {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.book_{
+    width: 1140px;
+    justify-content:space-between;
+    display: flex;
+    align-items: center;
+}
+
+.rasm {
+    background-image: url(./1614723891_106-p-foni-dlya-literaturi-128\ 1.png);
+    width: 1060px;
+    height: 500px;
+    align-items: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    text-align: center;
+
+}
+.ota_ramka{
+    padding-top: 20px;
+    width: 1060px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.ramka{
+    margin: auto;
+    justify-content: space-between ;
+    width: 300px;
+    height: 290px;
+    background-color: #C4C4C4;
+}
+.ramka1{
+    margin: auto;
+    justify-content: space-between ;
+    width: 300px;
+    height: 290px;
+    background-color: #C4C4C4;
+}
+.ramka2{
+    margin: auto;
+    justify-content: space-between ;
+    width: 300px;
+    height: 290px;
+    background-color: #C4C4C4;
+}
+.paski{
+    margin-top: 20px;
+    padding-top: 20px;
+    background-color: #C4C4C4;
+    display: flex;
+    justify-content: space-between;
+}
